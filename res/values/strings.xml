@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">DdNbImporter</string>
+    <string name="app_name">DdNb Importer</string>
+    <string name="confirm_import">%1$sにエクスポートされたファイルからプレイ履歴をインポートします。よろしいですか?</string>
+    <string name="importing">インポートしています...</string>
+    <string name="history_imported">%1$d件のプレイ履歴をインポートしました</string>
+    <string name="no_history_imported">インポートされたプレイ履歴はありません</string>
 </resources>

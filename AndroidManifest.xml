@@ -5,6 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk android:minSdkVersion="4" />
+    <uses-permission android:name="net.diva.browser.permission.WRITE_HISTORY"/>
 
     <application
         android:icon="@drawable/ic_launcher"
